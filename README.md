@@ -5,7 +5,7 @@
 - PartOfDeasMind
 - TheresaRoth
 
-# Exercise 1
+# Exercise Part A
 
 Single-cell RNA sequencing
 
